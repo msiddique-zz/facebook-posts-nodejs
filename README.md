@@ -32,7 +32,7 @@ Now run this command in terminal <br /><br />
 node app.js
 ```
 
-## 5- Open into browser
+## 7- Open into browser
 Open a browser and go to `http://localhost:5000/`.<br />
 Login page will be displayed.<br />
 Click on login button.<br />
